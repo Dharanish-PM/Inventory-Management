@@ -1,0 +1,5 @@
+
+P-ID-0,Apple,12000.0,12
+P-ID-1,Orange,14000.0,14
+P-ID-2,Litchie,15000.0,15
+The Total Value of Inventory : 565000.0

@@ -1,0 +1,2 @@
+P-ID-2,Litchie,15000.0,15
+Value is : 225000.0
